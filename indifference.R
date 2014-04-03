@@ -20,3 +20,4 @@ m <- -(exp((1/b) * (1:5 - log(rootpts))) * ((1/b) * (1/rootpts)))
 rootints <- rootpts - m*rootpts
 #plotting
 for (i in 1:5) {abline(a=rootints[i],b=m[i],col=i)}
+#edit check
