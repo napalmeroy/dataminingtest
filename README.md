@@ -1,4 +1,4 @@
 dataminingtest
 ==============
 data mining for chicago booth spring 2014
-npomeroy and friends
+npomeroy and friends - test test1
